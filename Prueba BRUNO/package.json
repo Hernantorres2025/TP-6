@@ -1,0 +1,15 @@
+{
+  "name": "prueba-bruno",
+  "version": "1.0.0",
+  "main": "compraEntradas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
